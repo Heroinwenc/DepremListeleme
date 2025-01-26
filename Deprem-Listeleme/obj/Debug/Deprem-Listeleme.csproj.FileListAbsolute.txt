@@ -1,0 +1,11 @@
+D:\Ömer YİĞİT - Haftasonu Kurs\Deprem-Listeleme\Deprem-Listeleme\bin\Debug\Deprem-Listeleme.exe.config
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\bin\Debug\Deprem-Listeleme.exe.config
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\bin\Debug\Deprem-Listeleme.exe
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\bin\Debug\Deprem-Listeleme.pdb
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem-Listeleme.csproj.AssemblyReference.cache
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem_Listeleme.Form1.resources
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem_Listeleme.Properties.Resources.resources
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem-Listeleme.csproj.GenerateResource.cache
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem-Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem-Listeleme.exe
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem-Listeleme.pdb

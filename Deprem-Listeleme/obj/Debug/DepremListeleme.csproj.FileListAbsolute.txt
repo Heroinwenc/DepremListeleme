@@ -1,0 +1,7 @@
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\DepremListeleme.csproj.AssemblyReference.cache
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\DepremListeleme.Form1.resources
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem_Listeleme.Properties.Resources.resources
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\DepremListeleme.csproj.GenerateResource.cache
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\DepremListeleme.csproj.CoreCompileInputs.cache
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem-Listeleme.exe
+C:\Users\33ome\Desktop\Deprem-Listeleme\Deprem-Listeleme\obj\Debug\Deprem-Listeleme.pdb
